@@ -1,0 +1,163 @@
+<html>
+
+<head>
+    <title>Java Script Learning</title>
+
+</head>
+
+<body>
+    <h1><b>Hello My people</b></h1>
+    <p id="demo" style="font-size: large; font-style: italic; font-weight: bolder;">
+        The types of control structures in VB are the If statements, the nested if (endif) and the selection
+        case</p>
+    <p id="elem">This paragraph will be changed or rather replaced by JavaScript</p>
+    <script>
+        var a = b = 5;
+        var sum = a + b;
+        //console for output
+        console.log(sum);
+        //browsing window for output
+        // document.write(sum);
+        //alert box for output
+        alert(sum);
+        //innerHTML property
+        // document.getElementById("demo").innerHTML = sum;
+        document.getElementById("elem").innerHTML = "Hello There Chepkolei!";
+
+        // declaration of variables
+        var firstName = "Epharaim", lastName = "Chepkole", age = 16;
+        document.write(firstName + " " + lastName + "<br>");
+        document.write("Age:" + " " + age);
+        // an array in JS
+        var fruits = ["<br>" + "apples", "bananas", "coconut"];
+        document.write(fruits[0] + " " + fruits[1] + " " + fruits[2]);
+
+        //the typeof operator
+        document.write("<br> " + typeof 21);
+
+        //using the === strictly equal operator
+        if (a === b) {
+            document.write("<br>" + true);
+        }
+        else {
+            document.write(false);
+        }
+
+        // using the ternary operator
+        var ternaryOperation = (a == b) ? "Walai" : "Tricky";
+        document.write(ternaryOperation);
+
+        // Functions in js
+        //syntax: keyword function functionName(parameters){ statements...}
+        function addNumber(num1, num2) {
+            var addition = num1 + num2;
+            return addition;
+        }
+        document.write("<br>" + addNumber(a, b));
+
+        //objects in js
+        var person = {
+            name: "John Doe",
+            age: 54,
+            hobbies: ["gamming", "coding"]
+        }
+        document.write("<br>" + person.name);
+
+        //Object in another object
+        var fruits = {
+            mango: {
+                color: 'yellow',
+                taste: 'sweet',
+            },
+            apple: {
+                color: 'red',
+                taste: 'sweet'
+            }
+        }
+        //output of object in an object
+        document.write("<br>" + fruits.mango.color);
+
+        // string methods
+        var str = "where is the money chepkole chepkole chepkole";
+        var strpos = str.indexOf("chepkole");// first occurence of a substiring(character)
+        var strpos1 = str.lastIndexOf("chepkole");
+        document.write("<br>" + strpos + " " + strpos1);
+        var result = str.slice(0, 13);
+        document.write("<br>" + result);
+        // string replacement operation
+        var result1 = str.replace(/ChePkoLe/gi, "Saronei");
+        document.write("<br>" + result1);
+        // the i /..../flag is used to replace strings insensitively
+        //trim(), changing cases and concatination of strings
+        var str2 = "       .   today .        ";
+        var result2 = str2.concat(" ", "is the day");
+        document.write("<br>" + result2);
+        //lowercase and uppercase
+        var upper = str2.toUpperCase();
+        var lower = str2.toLowerCase();
+        document.write("<br>" + upper + " " + lower);
+        document.write("<br>" + str2);
+        var tri = str2.trim();
+        document.write("<br>" + tri + "<br>");
+
+        // String concat method....used for concatinating strings......complex word for joining words or characters
+        var joiningWords = str.concat("thisIs", "concatination");
+        document.write("<br>" + joiningWords);
+        /*
+        JavaScript numbers......
+        Integers(without decimals) and floating points(with decimals)
+
+        Ex_ponent notation - used to write large or small numbers
+        212000000 writen as 212e6
+        .000000212 written as 212e-6
+        NB: all mathematical operations will work when numbers are placed as strings except for addition which will concatinate the numbers
+
+        Hexadecimal numbers format: start with the prefix 0x then followed by any of the numbers or characters in the range of 0 - F
+        var num1 = 0xff;
+        */
+        var num1 = 10 * "coding";// should return NaN
+        document.write("<br>" + num1);
+        var num2 = isNaN("yellow");// you must output it to get the results (True of false)
+        document.write("<br>" + num2);
+        /*
+        isNaN() method returns "true" if its argument is not a legal number
+ 
+        JavaScript number methods()
+        Number.isInteger() returns true if the passed argument is an integer
+        parseInt() method  takes a string argument and returns an integer based on the given value
+        parseFloat() method takes a string argument and returns a floating point
+        toFixed() method returns strings to a specified fixed number of floating points
+        var num1 = (2.012345). toFixed()
+        toExponential() method returns a string in exponential notation based on the given floating point
+        toString() method converts argument to string
+        */
+
+        // JavaScript arrays
+        //created by using the square brackets or using the array constructor
+        var fruits = ["mango", "orange", "apple"];
+        //var fruits = new array("mango","orange","apple");
+        //accessing elements
+        document.getElementById("demo").innerHTML = fruits[0];
+        // uses the push() method to add elements to an array
+        fruits.push("avocado");
+        // unshift() method places elements at the front of the array
+        //pop() methods removes the last element of the array
+        // shift() methods removes the first element of the array
+        var lastItem = fruits[fruits.length - 1];
+        document.getElementById("demo").innerHTML = lastItem;// outputs the last item
+
+        for (var i = 0; i < fruits.length; i++) {
+            document.getElementById("demo").innerHTML += fruits[i] + "<br>";
+        }
+
+        // declaring an object
+        /* let person = {
+            name: "Ephraim",
+            age:16
+        };
+        */
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+body {
+  font-family: times new roman, Arial, Helvetica, sans-serif;
+  font-size: medium;
+  width: auto;
+  height: auto;
+  text-decoration: none;
+  background-color:deepskyblue
+}
+h1 {
+  color: grey;
+}
+ul {
+  font-style: italic;
+  font-weight: bold;
+  font-variant: small-caps;
+  color: rgb(133, 21, 21);
+}
+form.format {
+  text-decoration: none;
+}
+nav ul li {
+  display: inline;
+  text-align: center;
+  color: rgb(238, 83, 238);
+}
+nav.one {
+  text-align: center;
+}
+div.lifeguard {
+  float: right;
+}
+body{
+    background-image:url(images\pexels-luis-leon-2569246.jpg);
+}

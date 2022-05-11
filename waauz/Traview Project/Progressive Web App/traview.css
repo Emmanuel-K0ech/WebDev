@@ -1,0 +1,52 @@
+form {
+  width: 30%;
+  padding: 70px;
+  margin: 5% 0%;
+  display: inline-block;
+  border: 10px solclass antiquewhite;
+}
+#login {
+  background-color: lightgreen;
+}
+/*You can change color of the following
+background of html elements
+borders
+text
+
+background properties
+background-color: Opacity(values from 0.0 to 1.0)/ use rgba(red,green,blue, alpha:for opacity)
+background-image: choose and image that does not disturb text :url();
+baackground-repeat: values are (repeat-x,repeat-y, no-repeat)
+background-attachment: sets whether background will scroll or be fixed
+background-position: specifies where the image should be placed
+background(shorthand property): declares all of the properties above
+in one declaration as long as they are in this order
+background-color
+background-image
+background-repeat
+background-attachment
+background-position
+*/
+
+/*
+Border properties
+border-style(dotted, dashed, solid, double, groove, ridge, inset, outset, none, hidden, mixed(dotted, dashed solid double))
+border-width: thickness of border,either values in px,em,etc or (thick, medium, thin)
+can have four values for each directed edge (top,right,bottom, left)
+border-color: can also have 4 values for each side
+border-sides: you can specify the side you want to format
+e.g. border-top, bottom, right, left
+border-shorthand: applies in the following order
+border-width
+border-style(required)
+border-color
+border-radius: to make rounded corners...uses values px
+*/
+
+/*
+Margins
+margin-top
+margin-right
+margin-bottom
+margin-left
+*/

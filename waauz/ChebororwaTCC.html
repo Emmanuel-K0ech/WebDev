@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/style.css">
+    <title>Chebororwa TCC</title>
+</head>
+
+<body>
+    <header>
+        <h1> Digital Farming Industry</h1>
+        <div class="lifeguard">
+            <img src="images/lifeguard_icon_183315.png" alt="" height=100px width="100px" />
+        </div>
+    </header>
+    <nav class="one">
+        <ul>
+            <li><a href="">Home</a></li>
+            <li><a href="">Services</a></li>
+            <li><a href="">About us</a></li>
+
+        </ul>
+    </nav>
+    <article class="italic">
+        <h2>Services Offered<h2>
+    </article>
+    <section>We offer the following services:
+        <ul class="italic">
+            <li>Accomodation</li>
+            <li>Training on modern farming techniques</li>
+            <li>Cattle keeping(Dairy farming,horticulture,large scale farming)</li>
+        </ul>
+    </section>
+    <section>
+        For registration purposes(training, accomodation etc...) fill the forms bellow
+        <form action="submit" method="get">
+            <br class="format">
+            <label> First Name:</label>
+            <input id="user" name="username" type="text" placeholder="First Name" />
+            <br /><br />
+            <label> Second Name: </label>
+            <input name="username" type="text" placeholder="Second Name" />
+            <br /><br />
+            <label>Surname</label>
+            <input id="third name" name="surname" type="text" placeholder="kipchirchir Omondi Timon" />
+            <br /></br>
+            <label> Phone number: </label>
+            <input id="tel number" name="phone number" type="numbers" placeholder="07........" />
+            <br /><br />
+            <label> Email:</label>
+            <input id="mail" name="email" type="text" placeholder="email@gmail.com" />
+            <br /><br />
+            <label>Service of choice</label>
+            <select name="Services" id="service">
+                <option>Training</option>
+                <option>Accomodation</option>
+                <option>Purchase procucts</option>
+            </select>
+            <button type="submit" onclick="submitHandler">Submit</button>
+        </form>
+    </section>
+    <aside>
+        <p>The services offered are of very high quality and at a good price. There are
+            also vast amount of land used to implement practically the training the is taught
+            theoretically............</p>
+    </aside>
+    <script>
+        document.write("<i>Hello world</i>")
+    </script>
+    <footer>
+        <ul>
+            <li>Telephone:</li>
+            <li>Fax</li>
+            <li>Sociol media(Faceebook, Instagram,Twitter)</li>
+        </ul>
+    </footer>
+
+
+    <script>
+        function submitHandler(e) {
+            e.preventDefault()
+        }
+    </script>
+
+</body>
+
+</html>

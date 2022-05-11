@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<!-- saved from url=(0053)https://library.elementor.com/bread-bakery/our-story/ -->
+<html lang="en-US">
+
+<head>
+
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>simplifix &#8211; SimpliMake</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="simplifix &raquo; Feed" href="https://simplifix.000webhostapp.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="simplifix &raquo; Comments Feed" href="https://simplifix.000webhostapp.com/comments/feed" />
+	<!-- This site uses the Google Analytics by MonsterInsights plugin v8.5.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+	<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+				<!-- No UA code set -->
+			<!-- / Google Analytics by MonsterInsights -->
+	<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/simplifix.000webhostapp.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 0.07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://simplifix.000webhostapp.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9.3' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--accent: #cd2653;--wp--preset--color--primary: #000000;--wp--preset--color--secondary: #6d6d6d;--wp--preset--color--subtle-background: #dcd7ca;--wp--preset--color--background: #f5efe0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 18px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 26.25px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 21px;--wp--preset--font-size--larger: 32px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='twentytwenty-style-css'  href='https://simplifix.000webhostapp.com/wp-content/themes/twentytwenty/style.css?ver=1.9' media='all' />
+<style id='twentytwenty-style-inline-css'>
+.color-accent,.color-accent-hover:hover,.color-accent-hover:focus,:root .has-accent-color,.has-drop-cap:not(:focus):first-letter,.wp-block-button.is-style-outline,a { color: #cd2653; }blockquote,.border-color-accent,.border-color-accent-hover:hover,.border-color-accent-hover:focus { border-color: #cd2653; }button,.button,.faux-button,.wp-block-button__link,.wp-block-file .wp-block-file__button,input[type="button"],input[type="reset"],input[type="submit"],.bg-accent,.bg-accent-hover:hover,.bg-accent-hover:focus,:root .has-accent-background-color,.comment-reply-link { background-color: #cd2653; }.fill-children-accent,.fill-children-accent * { fill: #cd2653; }body,.entry-title a,:root .has-primary-color { color: #000000; }:root .has-primary-background-color { background-color: #000000; }cite,figcaption,.wp-caption-text,.post-meta,.entry-content .wp-block-archives li,.entry-content .wp-block-categories li,.entry-content .wp-block-latest-posts li,.wp-block-latest-comments__comment-date,.wp-block-latest-posts__post-date,.wp-block-embed figcaption,.wp-block-image figcaption,.wp-block-pullquote cite,.comment-metadata,.comment-respond .comment-notes,.comment-respond .logged-in-as,.pagination .dots,.entry-content hr:not(.has-background),hr.styled-separator,:root .has-secondary-color { color: #6d6d6d; }:root .has-secondary-background-color { background-color: #6d6d6d; }pre,fieldset,input,textarea,table,table *,hr { border-color: #dcd7ca; }caption,code,code,kbd,samp,.wp-block-table.is-style-stripes tbody tr:nth-child(odd),:root .has-subtle-background-background-color { background-color: #dcd7ca; }.wp-block-table.is-style-stripes { border-bottom-color: #dcd7ca; }.wp-block-latest-posts.is-grid li { border-top-color: #dcd7ca; }:root .has-subtle-background-color { color: #dcd7ca; }body:not(.overlay-header) .primary-menu > li > a,body:not(.overlay-header) .primary-menu > li > .icon,.modal-menu a,.footer-menu a, .footer-widgets a,#site-footer .wp-block-button.is-style-outline,.wp-block-pullquote:before,.singular:not(.overlay-header) .entry-header a,.archive-header a,.header-footer-group .color-accent,.header-footer-group .color-accent-hover:hover { color: #cd2653; }.social-icons a,#site-footer button:not(.toggle),#site-footer .button,#site-footer .faux-button,#site-footer .wp-block-button__link,#site-footer .wp-block-file__button,#site-footer input[type="button"],#site-footer input[type="reset"],#site-footer input[type="submit"] { background-color: #cd2653; }.header-footer-group,body:not(.overlay-header) #site-header .toggle,.menu-modal .toggle { color: #000000; }body:not(.overlay-header) .primary-menu ul { background-color: #000000; }body:not(.overlay-header) .primary-menu > li > ul:after { border-bottom-color: #000000; }body:not(.overlay-header) .primary-menu ul ul:after { border-left-color: #000000; }.site-description,body:not(.overlay-header) .toggle-inner .toggle-text,.widget .post-date,.widget .rss-date,.widget_archive li,.widget_categories li,.widget cite,.widget_pages li,.widget_meta li,.widget_nav_menu li,.powered-by-wordpress,.to-the-top,.singular .entry-header .post-meta,.singular:not(.overlay-header) .entry-header .post-meta a { color: #6d6d6d; }.header-footer-group pre,.header-footer-group fieldset,.header-footer-group input,.header-footer-group textarea,.header-footer-group table,.header-footer-group table *,.footer-nav-widgets-wrapper,#site-footer,.menu-modal nav *,.footer-widgets-outer-wrapper,.footer-top { border-color: #dcd7ca; }.header-footer-group table caption,body:not(.overlay-header) .header-inner .toggle-wrapper::before { background-color: #dcd7ca; }
+</style>
+<link rel='stylesheet' id='twentytwenty-print-style-css'  href='https://simplifix.000webhostapp.com/wp-content/themes/twentytwenty/print.css?ver=1.9' media='print' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css'  href='https://simplifix.000webhostapp.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.5.7' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://simplifix.000webhostapp.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://simplifix.000webhostapp.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.6.5' media='all' />
+<link rel='stylesheet' id='elementor-post-6-css'  href='https://simplifix.000webhostapp.com/wp-content/uploads/elementor/css/post-6.css?ver=1651736929' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://simplifix.000webhostapp.com/wp-content/uploads/elementor/css/global.css?ver=1651736929' media='all' />
+<link rel='stylesheet' id='elementor-post-41-css'  href='https://simplifix.000webhostapp.com/wp-content/uploads/elementor/css/post-41.css?ver=1651839790' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css'  href='https://simplifix.000webhostapp.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.5.7' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css'  href='https://simplifix.000webhostapp.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.5.7' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Prata%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.9.3' media='all' />
+<script src='https://simplifix.000webhostapp.com/wp-content/themes/twentytwenty/assets/js/index.js?ver=1.9' id='twentytwenty-js-js' async></script>
+<script id='twentytwenty-js-js-after'>
+window.addEventListener( "load", function() {
+
+			if ( typeof jQuery === "undefined" ) {
+				return;
+			}
+
+			jQuery( document ).on( "wpformsPageChange wpformsShowConditionalsField", function() { 
+
+				if ( typeof twentytwenty === "undefined" || typeof twentytwenty.intrinsicRatioVideos === "undefined" || typeof twentytwenty.intrinsicRatioVideos.makeFit === "undefined" ) {
+					return;
+				}
+
+				twentytwenty.intrinsicRatioVideos.makeFit();
+			} );
+
+			jQuery( document ).on( "wpformsRichTextEditorInit", function( e, editor ) { 
+
+				jQuery( editor.container ).find( "iframe" ).addClass( "intrinsic-ignore" );
+			} );
+		} );
+</script>
+<script src='https://simplifix.000webhostapp.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='https://simplifix.000webhostapp.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://simplifix.000webhostapp.com/wp-json/" /><link rel="alternate" type="application/json" href="https://simplifix.000webhostapp.com/wp-json/wp/v2/pages/41" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://simplifix.000webhostapp.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://simplifix.000webhostapp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.3" />
+<link rel="canonical" href="https://simplifix.000webhostapp.com/" />
+<link rel='shortlink' href='https://simplifix.000webhostapp.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://simplifix.000webhostapp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsimplifix.000webhostapp.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://simplifix.000webhostapp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsimplifix.000webhostapp.com%2F&#038;format=xml" />
+<script>document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<title>simplifix - SimpliMake</title>
+	<meta name="robots" content="max-image-preview:large">
+
+	<!-- This site is optimized with the Yoast SEO plugin v13.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<link rel="canonical" href="https://library.elementor.com/bread-bakery/our-story/">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Our Story - Bread Bakery | Elementor Kit Library">
+	<meta property="og:description"
+		content="baking with love over 2 decades a family tradition our story Malesuada fames ac turpis egestas integer eget aliquet nibh. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Phasellus egestas tellus rutrum tellus pellentesque eu. Ipsum dolor sit amet consectetur adipiscing elit duis. …">
+	<meta property="og:url" content="https://library.elementor.com/bread-bakery/our-story/">
+	<meta property="og:site_name" content="Bread Bakery | Elementor Kit Library">
+	<meta property="og:image"
+		content="https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/07/About.jpg">
+	<meta property="og:image:secure_url"
+		content="https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/07/About.jpg">
+	<meta property="og:image:width" content="400">
+	<meta property="og:image:height" content="380">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:description"
+		content="baking with love over 2 decades a family tradition our story Malesuada fames ac turpis egestas integer eget aliquet nibh. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Phasellus egestas tellus rutrum tellus pellentesque eu. Ipsum dolor sit amet consectetur adipiscing elit duis. […]">
+	<meta name="twitter:title" content="Our Story - Bread Bakery | Elementor Kit Library">
+	<meta name="twitter:image"
+		content="https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/07/About.jpg">
+	<script type="application/ld+json"
+		class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://library.elementor.com/bread-bakery/#website","url":"https://library.elementor.com/bread-bakery/","name":"Bread Bakery | Elementor Kit Library","inLanguage":"en-US","description":"Benson\u2019s bakery","potentialAction":[{"@type":"SearchAction","target":"https://library.elementor.com/bread-bakery/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://library.elementor.com/bread-bakery/our-story/#primaryimage","inLanguage":"en-US","url":"https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/07/About.jpg","width":400,"height":380},{"@type":"WebPage","@id":"https://library.elementor.com/bread-bakery/our-story/#webpage","url":"https://library.elementor.com/bread-bakery/our-story/","name":"Our Story - Bread Bakery | Elementor Kit Library","isPartOf":{"@id":"https://library.elementor.com/bread-bakery/#website"},"inLanguage":"en-US","primaryImageOfPage":{"@id":"https://library.elementor.com/bread-bakery/our-story/#primaryimage"},"datePublished":"2021-05-11T13:21:20+00:00","dateModified":"2021-07-11T06:59:50+00:00","potentialAction":[{"@type":"ReadAction","target":["https://library.elementor.com/bread-bakery/our-story/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+	<link rel="dns-prefetch" href="https://s.w.org/">
+	<link rel="alternate" type="application/rss+xml" title="Bread Bakery | Elementor Kit Library » Feed"
+		href="https://library.elementor.com/bread-bakery/feed/">
+	<link rel="alternate" type="application/rss+xml" title="Bread Bakery | Elementor Kit Library » Comments Feed"
+		href="https://library.elementor.com/bread-bakery/comments/feed/">
+	<script type="text/javascript">
+		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/library.elementor.com\/bread-bakery\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.4" } };
+		!function (e, a, t) { var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t) { var a = String.fromCharCode; p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0); e = i.toDataURL(); return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL() } function c(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (o = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, r = 0; r < o.length; r++)t.supports[o[r]] = function (e) { if (!p || !p.fillText) return !1; switch (p.textBaseline = "top", p.font = "600 32px Arial", e) { case "flag": return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) ? !1 : !s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]); case "emoji": return !s([10084, 65039, 8205, 55357, 56613], [10084, 65039, 8203, 55357, 56613]) }return !1 }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji), c(n.wpemoji))) }(window, document, window._wpemojiSettings);
+	</script>
+	<style type="text/css">
+		img.wp-smiley,
+		img.emoji {
+			display: inline !important;
+			border: none !important;
+			box-shadow: none !important;
+			height: 1em !important;
+			width: 1em !important;
+			margin: 0 .07em !important;
+			vertical-align: -0.1em !important;
+			background: none !important;
+			padding: 0 !important;
+		}
+	</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="./our-story_files/style.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="hello-elementor-css" href="./our-story_files/style.min(1).css" type="text/css"
+		media="all">
+	<link rel="stylesheet" id="hello-elementor-theme-style-css" href="./our-story_files/theme.min.css" type="text/css"
+		media="all">
+	<link rel="stylesheet" id="elementor-frontend-css" href="./our-story_files/frontend.min.css" type="text/css"
+		media="all">
+	<link rel="stylesheet" id="elementor-post-4-css" href="./our-story_files/post-4.css" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-icons-css" href="./our-story_files/elementor-icons.min.css" type="text/css"
+		media="all">
+	<link rel="stylesheet" id="font-awesome-5-all-css" href="./our-story_files/all.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="font-awesome-4-shim-css" href="./our-story_files/v4-shims.min.css" type="text/css"
+		media="all">
+	<link rel="stylesheet" id="elementor-global-css" href="./our-story_files/global.css" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-post-142-css" href="./our-story_files/post-142.css" type="text/css"
+		media="all">
+	<link rel="stylesheet" id="google-fonts-1-css" href="./our-story_files/css" type="text/css" media="all">
+	<script type="text/javascript" src="./our-story_files/jquery.min.js" id="jquery-core-js"></script>
+	<script type="text/javascript" src="./our-story_files/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+	<script type="text/javascript" src="./our-story_files/v4-shims.min.js" id="font-awesome-4-shim-js"></script>
+	<link rel="https://api.w.org/" href="https://library.elementor.com/bread-bakery/wp-json/">
+	<link rel="alternate" type="application/json"
+		href="https://library.elementor.com/bread-bakery/wp-json/wp/v2/pages/142">
+	<meta name="generator" content="WordPress 5.8.4">
+	<link rel="shortlink" href="https://library.elementor.com/bread-bakery/?p=142">
+	<link rel="alternate" type="application/json+oembed"
+		href="https://library.elementor.com/bread-bakery/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flibrary.elementor.com%2Fbread-bakery%2Four-story%2F">
+	<link rel="alternate" type="text/xml+oembed"
+		href="https://library.elementor.com/bread-bakery/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flibrary.elementor.com%2Fbread-bakery%2Four-story%2F&amp;format=xml">
+	<link rel="icon"
+		href="https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/07/cropped-elementor-favicon-32x32.png"
+		sizes="32x32">
+	<link rel="icon"
+		href="https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/07/cropped-elementor-favicon-192x192.png"
+		sizes="192x192">
+	<link rel="apple-touch-icon"
+		href="https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/07/cropped-elementor-favicon-180x180.png">
+	<meta name="msapplication-TileImage"
+		content="https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/07/cropped-elementor-favicon-270x270.png">
+</head>
+
+<body
+	class="page-template-default page page-id-142 wp-custom-logo elementor-default elementor-template-full-width elementor-kit-4 elementor-page elementor-page-142">
+
+	<header id="site-header" class="site-header dynamic-header header-full-width menu-dropdown-tablet" role="banner" style="background-color:white ;">
+		<div class="header-inner">
+			<div class="site-branding show-logo">
+				<div class="site-logo show">
+					<a  href="https://simplifix.000webhostapp.com/" class="custom-logo-link" rel="home"><img
+							src="./Logo_2.svg" class="custom-logo"
+							alt="Bread Bakery | Elementor Kit Library"></a>
+				</div>
+			</div>
+
+			<nav class="site-navigation show" role="navigation">
+				<div class="menu-primary-menu-container">
+					<ul id="menu-primary-menu" class="menu">
+						<li id="menu-item-191"
+							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-191">
+							<a href="https://simplifix.000webhostapp.com/" style="color:red; font-size:x-large;">Home</a></li>
+						<li id="menu-item-193"
+							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a
+								href="https://simplifix.000webhostapp.com/our-breads" style="color:red; font-size:x-large;">Our Breads</a></li>
+						<li id="menu-item-194"
+							class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-142 current_page_item menu-item-194">
+							<a href="https://simplifix.000webhostapp.com/our-story" aria-current="page" style="color:red; font-size:x-large;">Our Story</a>
+						</li>
+						<li id="menu-item-192"
+							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a
+								href="https://simplifix.000webhostapp.com/contact-us" style="color:red; font-size:x-large;">Contact Us</a></li>
+					</ul>
+				</div>
+			</nav>
+			<div class="site-navigation-toggle-holder show">
+				<div class="site-navigation-toggle">
+					<i class="eicon-menu-bar"></i>
+					<span class="elementor-screen-only">Menu</span>
+				</div>
+			</div>
+			<nav class="site-navigation-dropdown show" role="navigation">
+				<div class="menu-primary-menu-container">
+					<ul id="menu-primary-menu" class="menu">
+						<li id="menu-item-191"
+							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-191">
+							<a href="https://simplifix.000webhostapp.com/">Home</a></li>
+						<li id="menu-item-193"
+							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a
+								href="https://simplifix.000webhostapp.com/our-breads">Our Breads</a></li>
+						<li id="menu-item-194"
+							class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-142 current_page_item menu-item-194">
+							<a href="https://simplifix.000webhostapp.com/our-story" aria-current="page">Our Story</a>
+						</li>
+						<li id="menu-item-192"
+							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a
+								href="https://simplifix.000webhostapp.com/contact-us">Contact Us</a></li>
+					</ul>
+				</div>
+			</nav>
+		</div>
+	</header>
+	<div data-elementor-type="wp-page" data-elementor-id="142" class="elementor elementor-142">
+		<section
+			class="elementor-section elementor-top-section elementor-element elementor-element-e507209 elementor-section-full_width elementor-section-content-top elementor-section-height-default elementor-section-height-default"
+			data-id="e507209" data-element_type="section">
+			<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-896ff80"
+					data-id="896ff80" data-element_type="column">
+					<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b89862b elementor-widget elementor-widget-image"
+							data-id="b89862b" data-element_type="widget" data-widget_type="image.default">
+							<div class="elementor-widget-container">
+								<img width="538" height="705"
+									src="./our-story_files/87_Bread_Bakery-OurStoryPage-Hero.jpg"
+									class="attachment-full size-full" alt="" loading="lazy"
+									srcset="https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/05/87_Bread_Bakery-OurStoryPage-Hero.jpg 538w, https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/05/87_Bread_Bakery-OurStoryPage-Hero-229x300.jpg 229w"
+									sizes="(max-width: 538px) 100vw, 538px">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-af1377d"
+					data-id="af1377d" data-element_type="column">
+					<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4ecd425 elementor-widget elementor-widget-heading"
+							data-id="4ecd425" data-element_type="widget" data-widget_type="heading.default">
+							<div class="elementor-widget-container">
+								<h1 class="elementor-heading-title elementor-size-default">baking with love </h1>
+							</div>
+						</div>
+						<div class="elementor-element elementor-element-f9d5e0d elementor-invisible elementor-widget elementor-widget-heading"
+							data-id="f9d5e0d" data-element_type="widget"
+							data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}"
+							data-widget_type="heading.default">
+							<div class="elementor-widget-container">
+								<h2 class="elementor-heading-title elementor-size-default">over 2 decades</h2>
+							</div>
+						</div>
+						<section
+							class="elementor-section elementor-inner-section elementor-element elementor-element-b9c318b elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+							data-id="b9c318b" data-element_type="section">
+							<div class="elementor-container elementor-column-gap-no">
+								<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-d6aab64"
+									data-id="d6aab64" data-element_type="column">
+									<div class="elementor-widget-wrap elementor-element-populated">
+										<div class="elementor-element elementor-element-5e8d0fb elementor-widget__width-initial elementor-widget elementor-widget-image"
+											data-id="5e8d0fb" data-element_type="widget"
+											data-widget_type="image.default">
+											<div class="elementor-widget-container">
+												<img width="318" height="467"
+													src="./our-story_files/87_Bread_Bakery-OurStoryPage-Hero-Img_1.jpg"
+													class="attachment-full size-full" alt="" loading="lazy"
+													srcset="https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/05/87_Bread_Bakery-OurStoryPage-Hero-Img_1.jpg 318w, https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/05/87_Bread_Bakery-OurStoryPage-Hero-Img_1-204x300.jpg 204w"
+													sizes="(max-width: 318px) 100vw, 318px">
+											</div>
+										</div>
+										<div class="elementor-element elementor-element-19a6bad elementor-widget__width-initial animated-slow elementor-invisible elementor-widget elementor-widget-image"
+											data-id="19a6bad" data-element_type="widget"
+											data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
+											data-widget_type="image.default">
+											<div class="elementor-widget-container">
+												<img width="318" height="467"
+													src="./our-story_files/87_Bread_Bakery-OurStoryPage-Hero-Img_2.jpg"
+													class="attachment-full size-full" alt="" loading="lazy"
+													srcset="https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/05/87_Bread_Bakery-OurStoryPage-Hero-Img_2.jpg 318w, https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/05/87_Bread_Bakery-OurStoryPage-Hero-Img_2-204x300.jpg 204w"
+													sizes="(max-width: 318px) 100vw, 318px">
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section
+			class="elementor-section elementor-top-section elementor-element elementor-element-2977e6d elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+			data-id="2977e6d" data-element_type="section">
+			<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-76862cd"
+					data-id="76862cd" data-element_type="column">
+					<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b6550fd elementor-widget elementor-widget-heading"
+							data-id="b6550fd" data-element_type="widget" data-widget_type="heading.default">
+							<div class="elementor-widget-container">
+								<h6 class="elementor-heading-title elementor-size-default">a family tradition</h6>
+							</div>
+						</div>
+						<div class="elementor-element elementor-element-5b590b3 elementor-widget elementor-widget-heading"
+							data-id="5b590b3" data-element_type="widget" data-widget_type="heading.default">
+							<div class="elementor-widget-container">
+								<h2 class="elementor-heading-title elementor-size-default">our story</h2>
+							</div>
+						</div>
+						<div class="elementor-element elementor-element-d13bac7 elementor-widget elementor-widget-text-editor"
+							data-id="d13bac7" data-element_type="widget" data-widget_type="text-editor.default">
+							<div class="elementor-widget-container">
+								<p>We live to push the envelope on baking the best possible bread that you can make in a 
+									standard home kitchen. For us, it’s all about reviving an artful alternative to the bland,
+									 nutrition-less, mass-produced food on grocery store shelves. And make no mistake: using
+									  inexpensive, but premium raw ingredients and a nominal amount of baking gear, you can
+									   make the best loaf of bread you’ve ever had — at home in your kitchen — with a total
+									    labor investment of about ten minutes. Yup, 
+										ten minutes (less once you get good at it).</p>
+							</div>
+						</div>
+						<div class="elementor-element elementor-element-20c1087 elementor-widget elementor-widget-heading"
+							data-id="20c1087" data-element_type="widget" data-widget_type="heading.default">
+							<div class="elementor-widget-container">
+								<h6 class="elementor-heading-title elementor-size-default">Andy Benson</h6>
+							</div>
+						</div>
+						<div class="elementor-element elementor-element-4ba8f25 elementor-view-default elementor-widget elementor-widget-icon"
+							data-id="4ba8f25" data-element_type="widget" data-widget_type="icon.default">
+							<div class="elementor-widget-container">
+								<div class="elementor-icon-wrapper">
+									<div class="elementor-icon">
+										<svg xmlns="http://www.w3.org/2000/svg"
+											id="e132bb42-55d1-45aa-8683-3ad44c7a96e9" data-name="Layer 1"
+											width="127.9703" height="107.8971" viewBox="0 0 127.9703 107.8971">
+											<path
+												d="M105.802,39.2239a9.3911,9.3911,0,0,1-6.7138,3.4925.5161.5161,0,0,0-.537.5373c-.3581,2.8657-2.6854,4.8359-4.8336,6.4478-1.2532.9851-2.5958,1.97-3.9385,2.8657a5.5162,5.5162,0,0,1-4.744.8059c-2.3273-.4477-4.4756-.6268-6.4448.9851a12.7263,12.7263,0,0,0-3.1,4.5391,4.64,4.64,0,0,0-2.54-1.8525,6.76,6.76,0,0,0-5.3707,1.0746,27.2383,27.2383,0,0,0-3.205,2.3136c-.0672-.054-.1246-.1124-.1964-.1643-2.3217-1.7551-4.82-1.1549-6.9843.2477a15.7032,15.7032,0,0,0,.0025-5.2627c-.179-1.3432-.8056-3.7612-2.7748-3.2238a1.9219,1.9219,0,0,0-1.1661.9848q.003-5.9509.0025-11.91c0-5.0149,0-10.1194-.0895-15.1343a.4633.4633,0,0,0-.4958-.5361.5749.5749,0,0,0-1.026-.0908A195.0238,195.0238,0,0,1,38.5789,44.5667V3.7612c.179-.806-.9847-.806-.9847-.09V45.7623c-1.6007,1.9351-3.2725,3.8012-5.037,5.5708.431-4.2541.7071-8.5323.92-12.8256.537-12.5373.7161-25.3433,3.3119-37.7911C36.968,0,35.8939-.2687,35.7148.3582,31.9983,17.6046,33.0964,35.27,31.1826,52.6758A57.5053,57.5053,0,0,1,21.7511,60c-.6266.4478,0,1.4328.5371.9851a57.2382,57.2382,0,0,0,8.6886-6.5879c-.21,1.721-.44,3.44-.7221,5.155A97.2327,97.2327,0,0,1,22.02,85.7911,114.6963,114.6963,0,0,1,15.396,97.4328c-1.2532,1.8806-2.6854,3.7612-4.1175,5.6422-.9846,1.253-3.2224,4.746-5.2811,3.582-1.1637-.627-1.3427-2.508-1.6112-3.582-.3581-1.433-.6266-2.776-.8951-4.2093q-.8056-4.1642-1.3427-8.3284C1.79,87.6716,1.5219,84.806,1.3428,82.03c-.0895-1.4329-.0895-2.8657-.179-4.2985,0-1.3433-.2685-3.0448.2685-4.3881-.2685.6269.8056.9851,1.0742.2686.537-1.4328-1.6112-1.8806-2.2378-.6268-.4475.8955-.179,2.2388-.179,3.1343,0,1.5224.09,3.0448.09,4.4776a127.6218,127.6218,0,0,0,1.88,16.3881,82.4586,82.4586,0,0,0,1.79,8.1489c.5371,1.702,1.7007,3.135,3.67,2.687,2.0588-.537,3.4909-2.597,4.7441-4.209,1.5217-1.97,2.9538-3.94,4.386-6a95.0838,95.0838,0,0,0,12.442-27.0447,109.0519,109.0519,0,0,0,3.273-17.4766q2.7487-2.6561,5.23-5.59V68.9552c0,1.4329.1791,3.8508,1.88,4.3881,2.1482.7164,3.9384-2.7761,4.8335-4.209A24.4509,24.4509,0,0,0,47.44,60.9851c.179-.7164-.9846-.9851-1.0741-.2687A21.2977,21.2977,0,0,1,43.86,67.6119a19.7373,19.7373,0,0,1-1.88,2.8657c-.6266.806-1.9693,2.7761-2.8644,1.2537a5.6262,5.6262,0,0,1-.537-2.9552V46.3167a131.4764,131.4764,0,0,0,8.3246-11.4809c1.7832-2.6759,3.4909-5.36,5.1937-8.1026.0858,17.474.0863,34.8649-.0019,52.3415,0,4.7084-.0744,9.4913-.084,14.2094A5.7542,5.7542,0,0,1,51.29,84.806c.5371-.5373-.2685-1.2537-.8056-.806-3.1329,3.0448-2.1482,8.8657,1.79,10.6567a.5276.5276,0,0,0,.8056-.4477q.147-14.5674.16-29.0841a.5939.5939,0,0,0,.6452.0691,5.5656,5.5656,0,0,0,2.8427-3.0805,7.88,7.88,0,0,1,1.5433-1.0389c1.6112-.8059,3.76-1.0746,5.2812.09l.0045.004a10.94,10.94,0,0,0-3.6745,6.2646c-.179,1.4329.09,3.8508,1.4322,4.7463,1.5217.9851,2.5958-1.1642,3.1329-2.2388,1.3053-2.4583,2.5355-6.0991.8274-8.5554.0525-.0435.1047-.0879.1572-.1312,1.5216-1.2537,3.2223-2.7761,5.2811-3.1343,1.79-.3582,3.8489.5373,4.207,2.4179.09.6269.8951.4478,1.0741,0,.9846-2.3283,2.2378-5.194,4.7441-6.1791,2.6853-.9851,5.46,1.1642,8.1454,0a24.9628,24.9628,0,0,0,3.76-2.5074c1.0741-.806,2.2377-1.612,3.2223-2.5075a10.2842,10.2842,0,0,0,3.66-5.6006A10.5564,10.5564,0,0,0,106.607,40.03C107.055,39.4925,106.249,38.6866,105.802,39.2239Zm-52.5491,17.37c.3188.0472.6842-.12.6325-.5342-.0895-.7164,0-3.7612,1.3427-2.9552.9846.5373.9846,3.3134.9846,4.2985a10.1119,10.1119,0,0,1-.6813,4.3895,19.9594,19.9594,0,0,0-2.29,2.4182Q53.2488,60.4029,53.2529,56.5939Zm11.4633,9.8539a16.8143,16.8143,0,0,1-1.0741,2.6865c-.2686.6269-.8056,2.06-1.5217,2.06-.8951,0-1.1637-1.8806-1.1637-2.597a6.7513,6.7513,0,0,1,.6266-2.9552A10.7252,10.7252,0,0,1,64.4244,62.11,5.3806,5.3806,0,0,1,64.7162,66.4478Z"
+												transform="translate(-0.0098 -0.0068)"></path>
+											<path
+												d="M127.105,10.388c-5.55,2.7762-11.01,5.6418-16.56,8.418-.626.3582-.089,1.2537.537.985,5.55-2.7761,11.01-5.6418,16.56-8.4179C128.358,11.0149,127.821,10.1194,127.105,10.388Z"
+												transform="translate(-0.0098 -0.0068)"></path>
+										</svg>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="elementor-element elementor-element-5b42cd1 elementor-view-default elementor-vertical-align-top elementor-invisible elementor-widget elementor-widget-icon-box"
+							data-id="5b42cd1" data-element_type="widget"
+							data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}"
+							data-widget_type="icon-box.default">
+							<div class="elementor-widget-container">
+								<div class="elementor-icon-box-wrapper">
+									<div class="elementor-icon-box-content">
+										<h3 class="elementor-icon-box-title">
+											<span>
+												ingredients </span>
+										</h3>
+										<p class="elementor-icon-box-description">
+											Sweet breads, such as cinnamon buns, brioche or hot cross buns,
+											 are made with an enriched yeasted dough which can contain butter,
+											  eggs and sugar. This means they’ll take longer to rise.
+											   The first rising generally takes place without the addition of
+											    dried fruit which is mixed in after. </p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="elementor-element elementor-element-ecb0802 elementor-view-default elementor-vertical-align-top elementor-invisible elementor-widget elementor-widget-icon-box"
+							data-id="ecb0802" data-element_type="widget"
+							data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}"
+							data-widget_type="icon-box.default">
+							<div class="elementor-widget-container">
+								<div class="elementor-icon-box-wrapper">
+									<div class="elementor-icon-box-content">
+										<h3 class="elementor-icon-box-title">
+											<span>
+												sustainability </span>
+										</h3>
+										<p class="elementor-icon-box-description">
+											We are always happy to hear from our customers.
+											 We live to push the envelope on baking and we
+											  sure hope that our customer's do too. </p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1d3d932"
+					data-id="1d3d932" data-element_type="column">
+					<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-82db605 elementor-widget elementor-widget-image"
+							data-id="82db605" data-element_type="widget" data-widget_type="image.default">
+							<div class="elementor-widget-container">
+								<img width="835" height="555"
+									src="./our-story_files/87_Bread_Bakery-OurStoryPage-OurStorySection.jpg"
+									class="attachment-full size-full" alt="" loading="lazy"
+									srcset="https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/05/87_Bread_Bakery-OurStoryPage-OurStorySection.jpg 835w, https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/05/87_Bread_Bakery-OurStoryPage-OurStorySection-300x199.jpg 300w, https://library.elementor.com/bread-bakery/wp-content/uploads/sites/155/2021/05/87_Bread_Bakery-OurStoryPage-OurStorySection-768x510.jpg 768w"
+									sizes="(max-width: 835px) 100vw, 835px">
+							</div>
+						</div>
+						<div class="elementor-element elementor-element-b855cb9 elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box"
+							data-id="b855cb9" data-element_type="widget" data-widget_type="icon-box.default">
+							<div class="elementor-widget-container">
+								<div class="elementor-icon-box-wrapper">
+									<div class="elementor-icon-box-icon">
+										<span class="elementor-icon elementor-animation-">
+											<svg xmlns="http://www.w3.org/2000/svg"
+												id="babd51c6-232f-4668-aa27-cf262924e93d" data-name="Layer 1"
+												width="61.8" height="53.9999" viewBox="0 0 61.8 53.9999">
+												<path
+													d="M58.6,34.2a11.0935,11.0935,0,0,0-8.4-3.6,4.0745,4.0745,0,0,1-3-1,4.5281,4.5281,0,0,1-1-3q0-6.6,4.8-13A39.3606,39.3606,0,0,1,62,3.4L59.8.2Q47.2,6.4,41,15.6a35.6044,35.6044,0,0,0-6,20.2q0,8.2,4,13.4a13.8883,13.8883,0,0,0,11.2,5A11.7892,11.7892,0,0,0,58.6,51a11.0936,11.0936,0,0,0,3.6-8.4A11.0936,11.0936,0,0,0,58.6,34.2Z"
+													transform="translate(-0.4 -0.2)"></path>
+												<path
+													d="M15.6,30.6a4.0745,4.0745,0,0,1-3-1,4.5281,4.5281,0,0,1-1-3q0-6.6,4.8-13a39.3606,39.3606,0,0,1,11-10.2L25.2.2Q12.6,6.4,6.4,15.6a35.6044,35.6044,0,0,0-6,20.2q0,8.2,4,13.4a13.8883,13.8883,0,0,0,11.2,5A11.7892,11.7892,0,0,0,24,51a11.0936,11.0936,0,0,0,3.6-8.4A11.0936,11.0936,0,0,0,24,34.2,11.0935,11.0935,0,0,0,15.6,30.6Z"
+													transform="translate(-0.4 -0.2)"></path>
+											</svg> </span>
+									</div>
+									<div class="elementor-icon-box-content">
+										<h3 class="elementor-icon-box-title">
+											<span>
+												Perfect balance of taste and texture. </span>
+										</h3>
+										<p class="elementor-icon-box-description">
+											Pete Walters, Luke caffe </p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+	<footer id="site-footer" class="header-footer-group">
+
+		<div class="section-inner">
+
+			<div class="footer-credits">
+
+				<p class="footer-copyright">©
+					2022							<a href="https://simplifix.000webhostapp.com/">simplifix</a>
+				</p><!-- .footer-copyright -->
+
+				
+				<p class="powered-by-wordpress">
+					<a href="https://en-gb.wordpress.org/">
+						Powered by WordPress							</a>
+				</p><!-- .powered-by-wordpress -->
+
+			</div><!-- .footer-credits -->
+
+			<a class="to-the-top" href="#site-header">
+				<span class="to-the-top-long">
+					To the top <span class="arrow" aria-hidden="true">↑</span>						</span><!-- .to-the-top-long -->
+				<span class="to-the-top-short">
+					Up <span class="arrow" aria-hidden="true">↑</span>						</span><!-- .to-the-top-short -->
+			</a><!-- .to-the-top -->
+
+		</div><!-- .section-inner -->
+
+	</footer>
+
+	<link rel="stylesheet" id="e-animations-css" href="./our-story_files/animations.min.css" type="text/css"
+		media="all">
+	<script type="text/javascript" src="./our-story_files/hello-frontend.min.js" id="hello-theme-frontend-js"></script>
+	<script type="text/javascript" src="./our-story_files/wp-embed.min.js" id="wp-embed-js"></script>
+	<script type="text/javascript" src="./our-story_files/webpack.runtime.min.js"
+		id="elementor-webpack-runtime-js"></script>
+	<script type="text/javascript" src="./our-story_files/frontend-modules.min.js"
+		id="elementor-frontend-modules-js"></script>
+	<script type="text/javascript" src="./our-story_files/waypoints.min.js" id="elementor-waypoints-js"></script>
+	<script type="text/javascript" src="./our-story_files/core.min.js" id="jquery-ui-core-js"></script>
+	<script type="text/javascript" src="./our-story_files/swiper.min.js" id="swiper-js"></script>
+	<script type="text/javascript" src="./our-story_files/share-link.min.js" id="share-link-js"></script>
+	<script type="text/javascript" src="./our-story_files/dialog.min.js" id="elementor-dialog-js"></script>
+	<script type="text/javascript" id="elementor-frontend-js-before">
+		var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Extra", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Extra", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } } }, "version": "3.6.1", "is_static": false, "experimentalFeatures": { "e_dom_optimization": true, "e_import_export": true, "e_hidden_wordpress_widgets": true, "hello-theme-header-footer": true, "landing-pages": true, "elements-color-picker": true, "favorite-widgets": true, "admin-top-bar": true }, "urls": { "assets": "https:\/\/library.elementor.com\/bread-bakery\/wp-content\/plugins\/elementor\/assets\/" }, "settings": { "page": [], "editorPreferences": [] }, "kit": { "body_background_background": "classic", "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description", "hello_header_logo_type": "logo", "hello_header_menu_layout": "horizontal", "hello_footer_logo_type": "logo" }, "post": { "id": 142, "title": "Our%20Story%20-%20Bread%20Bakery%20%7C%20Elementor%20Kit%20Library", "excerpt": "", "featuredImage": "https:\/\/library.elementor.com\/bread-bakery\/wp-content\/uploads\/sites\/155\/2021\/07\/About.jpg" } };
+	</script>
+	<script type="text/javascript" src="./our-story_files/frontend.min.js" id="elementor-frontend-js"></script>
+	<script type="text/javascript" src="./our-story_files/preloaded-modules.min.js" id="preloaded-modules-js"></script>
+
+
+
+</body>
+
+</html>
